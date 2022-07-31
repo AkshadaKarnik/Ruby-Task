@@ -12,7 +12,7 @@ login.rb ->        A file which helps user for logging in to the system by check
 stud_csv.rb ->     A file in which the signUp data which is taken by the user in the form of Hash will be stored and also can be fetched for checking 
                    during user login
                    
-stud_details.csv -> A .csv file which you can check out in the form of tables, rows n columns
+stud_details.csv -> A .csv file which you can check out in the form of table, rows n columns
 
 logout.rb ->       A file used for logging out the user from the system
   
