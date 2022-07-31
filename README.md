@@ -3,7 +3,9 @@
 DESCRIPTION:-
 
 college_module ->  A folder with the name same as module used i.e. CollegeModule 
-                   contains files [signUp.rb, login.rb, stud_csv.rb, stud_details.csv, logout.rb]
+                   contains files [main.rb, signUp.rb, login.rb, stud_csv.rb, stud_details.csv, logout.rb]
+                   
+main.rb ->         A main ruby file which will provide an interface to the user/student on console 
                    
 signUp.rb ->       A file created for registration/signUp of any student 
 
