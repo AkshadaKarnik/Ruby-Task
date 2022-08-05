@@ -1,4 +1,5 @@
 # Ruby-Task task_05_08
+This task version is mainly related to Updation and Saving of the registration details into the stud_details.csv file
 
 DESCRIPTION:-
 
